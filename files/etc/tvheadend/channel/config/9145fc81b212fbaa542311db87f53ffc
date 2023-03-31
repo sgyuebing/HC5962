@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"number": 2,
+	"icon": "file:////mnt/sda/picon/C2.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"15ddc52aa12eb04f3994322bfa38190f"
+	],
+	"tags": [
+		"8a883247249dce3dd1a2fb1338b208f0",
+		"ce0c8829748a7f9c0c62f7e762926f72"
+	],
+	"bouquet": ""
+}

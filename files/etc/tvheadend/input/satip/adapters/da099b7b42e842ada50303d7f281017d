@@ -1,0 +1,18 @@
+{
+	"tunercfgu": "Auto",
+	"tcp_mode": false,
+	"fast_switch": true,
+	"fullmux_ok": true,
+	"sigscale": 240,
+	"pids_max": 32,
+	"pids_len": 127,
+	"pids_deladd": true,
+	"fe": true,
+	"piloton": false,
+	"pids21": false,
+	"skip_ts": 0,
+	"disableworkarounds": false,
+	"device_uuid": "50c958a8-e839-4b96-b7ae-d4fed3ee3dbd",
+	"frontends": {
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"number": 13,
+	"icon": "file:////mnt/sda/picon/C13.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"3e932ac7f4f080f60630a9eacf00f03d"
+	],
+	"tags": [
+		"ce0c8829748a7f9c0c62f7e762926f72",
+		"8a883247249dce3dd1a2fb1338b208f0"
+	],
+	"bouquet": ""
+}
