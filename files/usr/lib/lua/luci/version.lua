@@ -17,4 +17,4 @@ else
 end
 
 luciname    = "IPTV&MMDVM"
-luciversion = "2023.03.31"
+luciversion = "2023.05.01"
